@@ -1,0 +1,45 @@
+body {
+  background-color: antiquewhite;
+}
+  .top {
+  color: hotpink;
+  background-color: palegreen;
+  text-align:center;
+  border:0px;
+  font-size: 40px;
+  padding: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+  }
+  #motto {
+    font-style: italic;
+    font-size: 25px;
+    border: 0px;
+    padding: 0px;
+  }
+nav li {
+display: inline-block;
+margin: 25px;
+}
+.daily {
+  text-align: center;
+  color: brown;
+  font-size: 20px;
+}
+#dailyflav {
+  border-style: solid;
+  border-top: 0px;
+  border-left: 0px;
+  border-right: 0px;
+  border-color: palegreen;
+  font-size: 30px;
+}
+.footer li {
+  display: inline-block;
+  margin: 25px;
+  text-align: center;
+}
+img .maps {
+  width:80px;
+  height: 40px;
+}
